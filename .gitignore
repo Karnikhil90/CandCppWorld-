@@ -1,5 +1,5 @@
 # code editor stuff
-.vscode/*
+.vscode
 .zed
 # compiled binary-code
 *.exe
