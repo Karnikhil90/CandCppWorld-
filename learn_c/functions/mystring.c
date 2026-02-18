@@ -43,11 +43,11 @@ int ispalindorm(const char word[]){
    return (cmp(reverce,word) == 0) ? 1 : 0 ;//  true : false
 }
 
-void main(){
-    char s1[100], r[100];
-    printf("Enter some value : ");
-    scanf("%s", &s1);
-    rev(r, s1);
-    printf("original= %s | Reverce= %s | ispalindorm = ",s1,r);
-    (ispalindorm(s1)) ? printf("True") : printf("False");
-}
+// void main(){
+//     char s1[100], r[100];
+//     printf("Enter some value : ");
+//     scanf("%s", &s1);
+//     rev(r, s1);
+//     printf("original= %s | Reverce= %s | ispalindorm = ",s1,r);
+//     (ispalindorm(s1)) ? printf("True") : printf("False");
+// }
