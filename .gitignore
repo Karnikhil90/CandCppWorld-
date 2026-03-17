@@ -4,5 +4,6 @@
 .zed
 # compiled binary-code
 *.exe
+*.o
 bin
-build/*
+build
