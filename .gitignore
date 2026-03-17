@@ -1,6 +1,8 @@
-# code editor stuff
-.vscode
+# code editro stuff
+.vscode/*
+!.vscode/settings.json
 .zed
 # compiled binary-code
 *.exe
 bin
+build/*
